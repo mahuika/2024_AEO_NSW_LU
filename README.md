@@ -10,4 +10,3 @@ Mapper/Researcher | jenny.mahuika@environment.nsw.gov.au
 Land Use Expert | stuart.smith@environment.nsw.gov.au  
 AI Modelling Expert | adam.roff@environment.nsw.gov.au  
   
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
