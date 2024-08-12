@@ -9,7 +9,7 @@ Department of Climate Change, Energy, the Environment and Water, NSW
   
 [Native Vegetation Regulatory Map Method Statement Appendices](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Biodiversity/native-vegetation-regulatory-map-method-statement-appendices-220038.pdf) 
 
-Continuous Change Detection and Classification (CCDC)
+Continuous Change Detection and Classification (CCDC)  
 https://parevalo-bu.users.earthengine.app/view/visualize-ccdc  
 https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html  
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2. https://doi.org/10.3389/fclim.2020.576740 
