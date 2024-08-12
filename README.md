@@ -11,7 +11,7 @@ Department of Climate Change, Energy, the Environment and Water, NSW
 
 Super-resolution  
 
-Segment Anything  
+Segmentation  
 
 Continuous Change Detection and Classification (CCDC)  
 https://parevalo-bu.users.earthengine.app/view/visualize-ccdc  
