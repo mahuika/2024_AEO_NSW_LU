@@ -9,6 +9,10 @@ Department of Climate Change, Energy, the Environment and Water, NSW
   
 [Native Vegetation Regulatory Map Method Statement Appendices](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Biodiversity/native-vegetation-regulatory-map-method-statement-appendices-220038.pdf) 
 
+Super-resolution  
+
+Segment Anything  
+
 Continuous Change Detection and Classification (CCDC)  
 https://parevalo-bu.users.earthengine.app/view/visualize-ccdc  
 https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html  
