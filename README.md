@@ -1,5 +1,6 @@
 # 2024_AEO_NSW_LU
-NSW DCEEW Contact details and links
+Department of Climate Change, Energy, the Environment and Water, NSW
+AI approaches can speed up delivery of land use mapping
 ## Links
 NSW Land Use Map 2017 version 1.5 | https://datasets.seed.nsw.gov.au/dataset/nsw-landuse-2017-v1p5-f0ed-clone-a95d
 Australian Land Use Management Classification version 8 | https://www.agriculture.gov.au/abares/aclump/land-use/alum-classification
