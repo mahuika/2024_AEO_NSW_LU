@@ -1,5 +1,5 @@
 # 2024_AEO_NSW_LU
-![NSW Government Logo]{https://datasets.seed.nsw.gov.au/images/logo.png}
+![NSW Government Logo](https://datasets.seed.nsw.gov.au/images/logo.png)  
 Department of Climate Change, Energy, the Environment and Water, NSW  
 AI approaches can speed up delivery of land use mapping  
 ## Links
