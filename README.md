@@ -26,6 +26,8 @@ Continuous Change Detection and Classification (CCDC)
 [Documentation](https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html)  
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2. https://doi.org/10.3389/fclim.2020.576740 
 
+P. Helber, B. Bischke, A. Dengel and D. Borth, (2019) EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 12, no. 7, [doi: 10.1109/JSTARS.2019.2918242](https://doi.org/10.1109/JSTARS.2019.2918242)  
+
 Applied Agricultural Remote Sensing Centre/ UNE  
 [Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
   
