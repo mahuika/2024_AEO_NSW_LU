@@ -2,9 +2,15 @@
 Department of Climate Change, Energy, the Environment and Water, NSW 
 <!-- ![NSW Government Logo](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Logos/nsw-government-logo.svg)  -->  
   
-## Links
+## Current Land Use Map
 [NSW Land Use Map 2017 version 1.5](https://datasets.seed.nsw.gov.au/dataset/nsw-landuse-2017-v1p5-f0ed-clone-a95d) 
-  
+
+## Contacts
+Mapper/Researcher | jenny.mahuika@environment.nsw.gov.au  
+Land Use Expert | stuart.smith@environment.nsw.gov.au  
+AI Modelling Expert | adam.roff@environment.nsw.gov.au 
+
+## Other resources
 [Australian Land Use Management Classification version 8](https://www.agriculture.gov.au/abares/aclump/land-use/alum-classification) 
   
 [Native Vegetation Regulatory Map Method Statement Appendices](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Biodiversity/native-vegetation-regulatory-map-method-statement-appendices-220038.pdf) 
@@ -14,15 +20,12 @@ Super-resolution
 Segmentation  
 
 Continuous Change Detection and Classification (CCDC)  
-https://parevalo-bu.users.earthengine.app/view/visualize-ccdc  
-https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html  
+[CCDC Earth Engine App](https://parevalo-bu.users.earthengine.app/view/visualize-ccdc)  
+[Documentation](https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html)  
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2. https://doi.org/10.3389/fclim.2020.576740 
 
-
-## Contacts
-Mapper/Researcher | jenny.mahuika@environment.nsw.gov.au  
-Land Use Expert | stuart.smith@environment.nsw.gov.au  
-AI Modelling Expert | adam.roff@environment.nsw.gov.au  
+Applied Agricultural Remote Sensing Centre/ UNE  
+[Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
   
-## Other contributors  
-Jared Wood | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens 
+## Contributors  
+Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood
