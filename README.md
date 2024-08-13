@@ -1,5 +1,6 @@
 # AI approaches can speed up delivery of land use mapping  
 Department of Climate Change, Energy, the Environment and Water, NSW 
+  
 ![image](https://github.com/user-attachments/assets/efe21bd4-de0e-43b2-87ea-b4c265ee9b80)
 
   
