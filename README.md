@@ -28,7 +28,7 @@ Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for cont
 
 P. Helber, B. Bischke, A. Dengel and D. Borth, (2019) EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 12, https://doi.org/10.1109/JSTARS.2019.2918242  
 
-G. Weikmann, C. Paris and L. Bruzzone, (2021) TimeSen2Crop: A Million Labeled Samples Dataset of Sentinel 2 Image Time Series for Crop-Type Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, https://10.1109/JSTARS.2021.3073965  
+G. Weikmann, C. Paris and L. Bruzzone, (2021) TimeSen2Crop: A Million Labeled Samples Dataset of Sentinel 2 Image Time Series for Crop-Type Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, https://doi.org/10.1109/JSTARS.2021.3073965  
 
 Applied Agricultural Remote Sensing Centre/ UNE  
 [Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
