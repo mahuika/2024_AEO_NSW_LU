@@ -17,6 +17,9 @@ AI Modelling Expert | adam.roff@environment.nsw.gov.au
   
 [Native Vegetation Regulatory Map Method Statement Appendices](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Biodiversity/native-vegetation-regulatory-map-method-statement-appendices-220038.pdf) 
 
+Applied Agricultural Remote Sensing Centre/ UNE  
+[Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
+
 Super-resolution  
 
 Segmentation  
@@ -25,13 +28,6 @@ Continuous Change Detection and Classification (CCDC)
 [CCDC Earth Engine App](https://parevalo-bu.users.earthengine.app/view/visualize-ccdc)  
 [Documentation](https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html)  
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2. https://doi.org/10.3389/fclim.2020.576740 
-
-P. Helber, B. Bischke, A. Dengel and D. Borth, (2019) EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 12, https://doi.org/10.1109/JSTARS.2019.2918242  
-
-G. Weikmann, C. Paris and L. Bruzzone, (2021) TimeSen2Crop: A Million Labeled Samples Dataset of Sentinel 2 Image Time Series for Crop-Type Classification, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, https://doi.org/10.1109/JSTARS.2021.3073965  
-
-Applied Agricultural Remote Sensing Centre/ UNE  
-[Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
   
 ## Contributors  
 Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood  
