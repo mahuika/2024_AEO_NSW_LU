@@ -28,4 +28,6 @@ Applied Agricultural Remote Sensing Centre/ UNE
 [Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
   
 ## Contributors  
-Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood
+Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood  
+
+![NSW Government Logo](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Logos/nsw-government-logo.svg)
