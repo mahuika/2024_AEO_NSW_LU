@@ -5,7 +5,7 @@ Department of Climate Change, Energy, the Environment and Water, NSW
 
   
 ## Current Land Use Map
-[NSW Land Use Map 2017 version 1.5](https://datasets.seed.nsw.gov.au/dataset/nsw-landuse-2017-v1p5-f0ed-clone-a95d) 
+[NSW Land Use Map 2017 version 1.5](https://doi.org/10.25948/6fcf-gc02)  
 
 ## Contacts
 Mapper/Researcher | jenny.mahuika@environment.nsw.gov.au  
