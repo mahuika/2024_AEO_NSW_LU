@@ -30,6 +30,6 @@ Continuous Change Detection and Classification (CCDC)
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2. https://doi.org/10.3389/fclim.2020.576740 
   
 ## Contributors  
-Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood  
+Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood  | Kal Backman
 
 ![NSW Government Logo](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Logos/nsw-government-logo.svg)
