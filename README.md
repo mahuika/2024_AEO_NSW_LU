@@ -42,11 +42,20 @@ https://doi.org/10.3389/fclim.2020.576740
 [Documentation](https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html)  
 
 QGIS - Deepness plugin  
-Note: Deepness plugin models are pretrained using different classification schemas and would need retraining with appropriate classes.  
+Note: Deepness plugin models are pretrained using different classification schemas and would need retraining with appropriate classes  
 https://qgis-plugin-deepness.readthedocs.io/en/latest/main/main_model_zoo.html  
 
+Computer Vision Annotation Tool (CVAT)  
+Video and image annotation tool for computer vision  
+[CVAT App](https://app.cvat.ai/)  
+[Documentation](https://docs.cvat.ai/docs/)  
+
 Applied Agricultural Remote Sensing Centre/ UNE  
-[Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)
+[Australian Tree Crop Map Dashboard](https://experience.arcgis.com/experience/6cde8c0467e542398fb0afd1dde48a73/page/Page-1/)  
+  
+Digital Agricultural Services  
+[Web site](https://digitalagricultureservices.com/)  
+
   
 ## Contributors  
 Jenny Mahuika | Stuart Smith | Adam Roff | Jonathan Magson | Takatoyo Yamamoto | Harry Stephens | Jared Wood  | Kal Backman
