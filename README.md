@@ -22,12 +22,12 @@ AI Modelling Expert | adam.roff@environment.nsw.gov.au
 Super-resolution  
 Wang, X., Yu, K., Wu, S., Gu, J., Liu, Y., Dong, C., Loy, C. C., Qiao, Y., & Tang, X. (2018). {ESRGAN:} Enhanced Super-Resolution Generative Adversarial Networks. CoRR, abs/1809.00219.  
 http://arxiv.org/abs/1809.00219  
-[Colab notebook] (https://colab.research.google.com/drive/18phbwA1iYG5VDGN2WjK7WrWYi-FdCHJ5)  
+[Colab notebook](https://colab.research.google.com/drive/18phbwA1iYG5VDGN2WjK7WrWYi-FdCHJ5)  
 
 Segmentation  
 Wu, Q., & Osco, L. (2023). samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM). Journal of Open Source Software, 8(89), 5663.  
 https://doi.org/10.21105/joss.05663  
-[Source code] (https://samgeo.gishub.org/)  
+[Source code](https://samgeo.gishub.org/)  
 
 Continuous Change Detection and Classification (CCDC)  
 Arévalo P, Bullock EL, Woodcock CE, Olofsson P (2020) A suite of tools for continuous land change monitoring in Google Earth Engine. Front Clim 2.  
