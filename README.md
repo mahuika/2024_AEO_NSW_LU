@@ -30,7 +30,7 @@ http://arxiv.org/abs/1809.00219
 
 Segmentation  
 Wu, Q., & Osco, L. (2023). samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM). Journal of Open Source Software, 8(89), 5663.  
-https://doi.org/10.21105/joss.05663 
+https://doi.org/10.21105/joss.05663  
 Osco, L. P., Wu, Q., de Lemos, E. L., Gonçalves, W. N., Ramos, A. P. M., Li, J., & Junior, J. M. (2023). The Segment Anything Model (SAM) for remote sensing applications: From zero to one shot. International Journal of Applied Earth Observation and Geoinformation, 124, 103540.  
 https://doi.org/10.1016/j.jag.2023.103540  
 [Source code](https://samgeo.gishub.org/)  
@@ -43,7 +43,7 @@ https://doi.org/10.3389/fclim.2020.576740
 
 QGIS - Deepness plugin  
 Note: Deepness plugin models are pretrained using different classification schemas and would need retraining with appropriate classes  
-https://qgis-plugin-deepness.readthedocs.io/en/latest/main/main_model_zoo.html  
+[Deepness AI models](https://qgis-plugin-deepness.readthedocs.io/en/latest/main/main_model_zoo.html)  
 
 Computer Vision Annotation Tool (CVAT)  
 Video and image annotation tool for computer vision  
