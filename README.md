@@ -8,6 +8,8 @@
 
 [NSW Land Use Map 2017 version 1.5](https://doi.org/10.25948/6fcf-gc02)  
   
+[Australian Collaborative Land Use and Management Program (ACLUMP)](https://www.agriculture.gov.au/abares/aclump/about-aclump)  
+  
 [Australian Land Use Management Classification version 8](https://www.agriculture.gov.au/abares/aclump/land-use/alum-classification) 
   
 [Native Vegetation Regulatory Map Method Statement Appendices](https://www.environment.nsw.gov.au/-/media/OEH/Corporate-Site/Documents/Animals-and-plants/Biodiversity/native-vegetation-regulatory-map-method-statement-appendices-220038.pdf) 
