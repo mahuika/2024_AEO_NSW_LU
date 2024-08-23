@@ -37,7 +37,7 @@ https://doi.org/10.3389/fclim.2020.576740
 [CCDC Earth Engine App](https://parevalo-bu.users.earthengine.app/view/visualize-ccdc)  
 [Documentation](https://gee-ccdc-tools.readthedocs.io/en/latest/ccdc_viz.html)  
 
-QGIS - Deepness plugin
+QGIS - Deepness plugin  
 Note: Deepness plugin models are pretrained using different classification schemas and would need retraining with appropriate classes.  
 https://qgis-plugin-deepness.readthedocs.io/en/latest/main/main_model_zoo.html  
 
